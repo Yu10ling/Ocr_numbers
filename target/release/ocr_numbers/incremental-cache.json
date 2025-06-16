@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "ocr_numbers": {
+      "rootPackageName": "ocr_numbers",
+      "fileNameHash": "-7932497934412211851",
+      "timeStamp": 1749371171,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "5842501741537587436",
+  "rootPackageName": "ocr_numbers"
+}
